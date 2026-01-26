@@ -45,7 +45,7 @@ First production-ready semantic caching with mathematical error guarantees. Outp
 
 </td>
 <td width="40%">
-<img src="https://img.shields.io/badge/arXiv-2502.03771-B31B1B?style=for-the-badge&logo=arxiv" alt="arXiv">
+  <img src="https://img.shields.io/badge/ICLR-2026-6A5ACD?style=for-the-badge" alt="ICLR 2026">
 </td>
 </tr>
 
@@ -58,12 +58,13 @@ First practical sparse attention with mathematical accuracy guarantees. Matches 
 
 </td>
 <td width="40%">
-<img src="https://img.shields.io/badge/arXiv-2510.05688-B31B1B?style=for-the-badge&logo=arxiv" alt="arXiv">
+  <img src="https://img.shields.io/badge/ICLR-2026-6A5ACD?style=for-the-badge" alt="ICLR 2026">
 </td>
 </tr>
 
 <tr>
 <td width="60%">
+
 
 **[ALTO: Compound AI System Orchestration](https://arxiv.org/abs/2403.04311v3)**
 
