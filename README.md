@@ -81,7 +81,7 @@ Automatic optimization of compound AI systems through streaming and parallelism 
 
 **[The Danger of Overthinking in Agentic Systems](https://arxiv.org/abs/2502.08235)**
 
-Identifies overthinking in reasoning models—when they favor extended reasoning over environmental interaction. Our mitigation strategies improve performance by 30%, reduce costs by 43%.
+Identifies overthinking in reasoning models (when they favor extended reasoning over environmental interaction). Our mitigation strategies improve performance by 30%, reduce costs by 43%.
 
 </td>
 <td width="40%">
