@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I'm founding member of technical staff at UniversalAGI, building ML models for physics. I researched at the UC Berkeley's Sky Computing Lab with Joseph E. Gonzalez, Ion Stoica, and Matei Zaharia on efficient inference and systems for LLMs (semantic caching with error guarantees, compound AI orchestration, agentic systems, database query optimization, and sparse attention). Before, I built systems at Snowflake and Microsoft and studied computer science at TU Munich and UC Berkeley.
+I'm on the founding team of UniversalAGI, researching ML models for computational fluid dynamics. I researched at UC Berkeley's Sky Computing Lab with Joseph E. Gonzalez, Ion Stoica, and Matei Zaharia on efficient LLM inference and systems (semantic caching with error guarantees, compound AI orchestration, agentic systems, database query optimization, and sparse attention). Before, I built systems at Snowflake and Microsoft and studied computer science at TU Munich and UC Berkeley.
 
 <div align="left">
     <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; padding: 20px 40px; margin: 20px auto; max-width: 800px;">
